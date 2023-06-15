@@ -21,21 +21,15 @@
 ### Register Number: 212222110046
 
 ### BASE:
-
 ![image](https://github.com/SrinithiV/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118722030/3abb6558-af73-4ba7-8d5b-ac08f8782c28)
-
 The base or print bed is the flat surface on which the object is built during the 3D printing process. It is usually a heated platform that provides stability and adhesion for the initial layers of the print.
 
 ### Extruder:
-
 ![image](https://github.com/SrinithiV/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118722030/c88c9cf3-a881-4061-b478-066ca9175f3f)
-
 The extruder is a fundamental component of a 3D printer. It is responsible for depositing and shaping the molten thermoplastic filament used to build the object layer by layer.
 
 ### Material Spool:
-
 ![image](https://github.com/SrinithiV/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118722030/7bf1c49c-2e79-4bff-80f5-dd2d42affacf)
-
 Material spool is the cylindrical holder or container that holds the filament used for printing. The filament, which is typically in the form of a long, thin thread, is wound around the spool.
 
 ### Filament:
@@ -44,6 +38,7 @@ Material spool is the cylindrical holder or container that holds the filament us
 Filament is a long, thin strand of thermoplastic material that is fed into the 3D printer's extruder, melted, and deposited layer by layer to create a three-dimensional object.PLA (Polylactic Acid),ABS (Acrylonitrile Butadiene Styrene),PETG (Polyethylene Terephthalate Glycol) are some of the commonly used filament materials.
 
 ### Start Process:
+![image](https://github.com/SrinithiV/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118722030/7359e38c-6825-4e07-90f9-051423d3e28a)
 #### Prepare the 3D Model: 
 Begin by creating or obtaining a 3D model of the object you want to print. This can be done using computer-aided design (CAD) software or by downloading pre-designed models from online repositories.
 #### Slicing the Model: 
@@ -66,6 +61,8 @@ During the printing process, keep an eye on the progress to ensure that everythi
 Once the print is complete, allow the object to cool down before removing it from the print bed. Depending on the filament and desired finish, you may need to perform additional post-processing steps, such as removing support structures, sanding, painting, or other surface treatments.
 
 ### Stop Process:
+
+
 #### Pause the Print: 
 If you need to temporarily stop the printing process, most 3D printers have a pause function. Use the printer's control panel or software interface to pause the print. This will halt the extrusion of filament and movement of the print head.
 #### Address the Issue: 
