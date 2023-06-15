@@ -33,8 +33,7 @@ The extruder is a fundamental component of a 3D printer. It is responsible for d
 Material spool is the cylindrical holder or container that holds the filament used for printing. The filament, which is typically in the form of a long, thin thread, is wound around the spool.
 
 ### Filament:
-
-
+![image](https://github.com/SrinithiV/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118722030/21ab77b2-afb7-426c-ba40-10d9ce3b96e2)
 Filament is a long, thin strand of thermoplastic material that is fed into the 3D printer's extruder, melted, and deposited layer by layer to create a three-dimensional object.PLA (Polylactic Acid),ABS (Acrylonitrile Butadiene Styrene),PETG (Polyethylene Terephthalate Glycol) are some of the commonly used filament materials.
 
 ### Start Process:
@@ -61,8 +60,7 @@ During the printing process, keep an eye on the progress to ensure that everythi
 Once the print is complete, allow the object to cool down before removing it from the print bed. Depending on the filament and desired finish, you may need to perform additional post-processing steps, such as removing support structures, sanding, painting, or other surface treatments.
 
 ### Stop Process:
-
-
+![image](https://github.com/SrinithiV/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118722030/cf6f7fc0-abca-4315-8bea-9a915383576e)
 #### Pause the Print: 
 If you need to temporarily stop the printing process, most 3D printers have a pause function. Use the printer's control panel or software interface to pause the print. This will halt the extrusion of filament and movement of the print head.
 #### Address the Issue: 
